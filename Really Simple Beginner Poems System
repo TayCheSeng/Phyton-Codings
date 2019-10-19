@@ -1,0 +1,6 @@
+print("Welcome To Poems SECTION! \nWe Offer Really Good Customized Poems In A Few Minutes! \nJoin us now for just $5!")
+
+name = input("Please write the person's name that you hate: ")
+
+print("Roses are red \nViolets are blue\n" + name + " is ugly, so don't be tardy.")
+print("That is all for your customized poem, COOL rite?! Except, forget the fact that I scammed your money.")
