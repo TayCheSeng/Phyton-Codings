@@ -1,0 +1,7 @@
+customer = {
+    "name": "Ali",
+    "age": 31,
+    "verified": True,
+}
+
+print(customer["name"])
