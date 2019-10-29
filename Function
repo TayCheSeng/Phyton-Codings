@@ -1,0 +1,6 @@
+def function():
+    print("This is a function")
+
+print("Start")
+function()
+print("End")
