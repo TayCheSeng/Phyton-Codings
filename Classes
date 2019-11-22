@@ -1,0 +1,13 @@
+class Test:
+    def hi(self):
+        print("Hi!")
+
+    def bye(self):
+        print("Bye!")
+
+
+test1 = Test()
+test1.x = "Sup!"
+test1.y = "Bruh..."
+
+print(test1.x)
